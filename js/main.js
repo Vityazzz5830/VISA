@@ -82,7 +82,7 @@ if(document.querySelector('#map')) {
 
 
 
-if(document.querySelector('documents-content-list-item-childrenlink')) {
+
 
 
 
@@ -104,7 +104,7 @@ listitem2[0].addEventListener('click', function() {
 });
 
 
-}
+
 
 
 
